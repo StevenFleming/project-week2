@@ -1,0 +1,25 @@
+#java {
+  display: none;
+}
+.btn {
+  display: block;
+}
+
+#swift {
+  display: none;
+}
+
+#php{
+  display: none; 
+}
+
+#ruby {
+  display: none;
+}
+
+#python {
+  display: none;
+}
+.jumbotron{
+  background-color: rgb(150, 214, 210);
+}     
